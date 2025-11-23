@@ -1,0 +1,10 @@
+{"id":"company1_cloud_infra","text":"Design and implement cloud infrastructure using Terraform and AWS for 50+ microservices.","tags":["aws","terraform","infrastructure","cloud"],"seniority":"senior"}
+{"id":"company1_kubernetes","text":"Manage Kubernetes clusters serving 10M+ requests daily with 99.99% uptime.","tags":["kubernetes","k8s","orchestration","reliability"],"seniority":"senior"}
+{"id":"company1_cicd","text":"Automate deployment pipelines reducing release time from hours to minutes.","tags":["cicd","automation","devops","deployment"],"seniority":"senior"}
+{"id":"company1_mentoring","text":"Mentor junior engineers on cloud best practices and DevOps methodologies.","tags":["mentoring","leadership","devops"],"seniority":"senior"}
+{"id":"company1_cost_savings","text":"Reduced cloud costs by $500K annually through resource optimization.","tags":["cost optimization","aws","efficiency"],"seniority":"senior"}
+{"id":"company1_platform","text":"Built self-service platform enabling developers to deploy independently.","tags":["platform engineering","automation","devops"],"seniority":"senior"}
+{"id":"company2_cicd_impl","text":"Implemented CI/CD pipelines using GitLab CI and Docker.","tags":["gitlab","docker","cicd","automation"],"seniority":"mid"}
+{"id":"company2_aws","text":"Managed AWS infrastructure including EC2, RDS, S3, and Lambda.","tags":["aws","ec2","rds","lambda","cloud"],"seniority":"mid"}
+{"id":"company2_monitoring","text":"Set up monitoring and alerting with Prometheus and Grafana.","tags":["prometheus","grafana","monitoring","observability"],"seniority":"mid"}
+{"id":"company2_terraform","text":"Automated infrastructure provisioning using Terraform.","tags":["terraform","iac","automation"],"seniority":"mid"}
