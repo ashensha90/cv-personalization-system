@@ -373,7 +373,7 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file.
 
 ## 📧 Contact
 
-**Your Name** - [@ashensha90](https://github.com/ashensha90) - your.email@example.com
+**Your Name** - [@ashensha90](https://github.com/ashensha90)
 
 Project Link: [cv-personalization-system](https://github.com/ashensha90/cv-personalization-system)
 
